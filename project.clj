@@ -1,4 +1,4 @@
-(defproject je.suis/un-petit-index "0.1.0-SNAPSHOT"
+(defproject je.suis/un-petit-index "0.2.0-SNAPSHOT"
   :description "A simple, inefficient multi-language text search index."
   :url "https://un-petit-index.suis.je/"
   :scm {:name "git" :url "https://github.com/xorgy/un-petit-index"}
